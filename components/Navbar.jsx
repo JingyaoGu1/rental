@@ -210,7 +210,6 @@ const Navbar = () => {
                 role='menuitem'
                 tabIndex='-1'
                 id='user-menu-item-2'
-
               >
                 Sign Out
               </button>
